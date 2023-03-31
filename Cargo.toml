@@ -137,7 +137,7 @@ url = "2.3"
 
 [lib]
 name = "rustup"
-path = "src/lib.rs"
+path = "src/lib_enhanced.rs"
 
 [profile.release]
 codegen-units = 1
